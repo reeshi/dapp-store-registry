@@ -11,24 +11,17 @@
           ],
           "description": "A curated list of dapps that we think you will love.",
           "key": "curated-list"
+        },
+        {
+          "title": "Gaming",
+          "dappIds": [
+            "co.cryptokitties.dapp"
+          ],
+          "description": "gaming apps",
+          "key": "gaming"
         }
       ],
       "key": "reeshi.dappstore"
-    },
-    {
-      "githubId": "reeshi",
-      "featuredSections": [
-        {
-          "title": "Curated List 1",
-          "dappIds": [
-            "org.uniswap.dapp"
-          ],
-          "description": "A curated list of dapps that we think you will love.",
-          "key": "curated-list 1"
-        }
-      ],
-      "key": "rishikesh.dappstore",
-      "bannedDAppIds": []
     }
   ]
 }
