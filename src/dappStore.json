@@ -27,7 +27,11 @@
           "key": "curated-list 1"
         }
       ],
-      "key": "rishikesh.dappstore"
+      "key": "rishikesh.dappstore",
+      "bannedDAppIds": [
+        "com.larvalabs.dapp",
+        "co.cryptokitties.dapp"
+      ]
     }
   ]
 }
