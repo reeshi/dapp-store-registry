@@ -7,7 +7,9 @@
           "title": "Curated List",
           "dappIds": [
             "org.uniswap.dapp",
-            "io.opensea.dapp"
+            "io.opensea.dapp",
+            "co.cryptokitties.dapp",
+            "com.larvalabs.dapp"
           ],
           "description": "A curated list of dapps that we think you will love.",
           "key": "curated-list"
