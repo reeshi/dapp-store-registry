@@ -28,10 +28,7 @@
         }
       ],
       "key": "rishikesh.dappstore",
-      "bannedDAppIds": [
-        "com.larvalabs.dapp",
-        "co.cryptokitties.dapp"
-      ]
+      "bannedDAppIds": []
     }
   ]
 }
