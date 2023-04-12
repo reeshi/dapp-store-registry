@@ -11,14 +11,6 @@
           ],
           "description": "A curated list of dapps that we think you will love.",
           "key": "curated-list"
-        },
-        {
-          "title": "Gaming",
-          "dappIds": [
-            "co.cryptokitties.dapp"
-          ],
-          "description": "gaming apps",
-          "key": "gaming"
         }
       ],
       "key": "reeshi.dappstore"
