@@ -1,17 +1,49 @@
 {
-    "dappStores":[
+  "dappStores": [
+    {
+      "githubId": "rishikesh-y",
+      "featuredSections": [
         {
-            "githubId":"rishikesh-y",
-            "featuredSections":[{
-                "title": "Curated List",
-                "dappIds": [
-                    "org.uniswap.dapp",
-                    "io.opensea.dapp"
-                ],
-                "description": "A curated list of dapps that we think you will love.",
-                "key": "curated-list"
-            }],
-            "key": "reeshi.dappstore"
+          "title": "Curated List",
+          "dappIds": [
+            "org.uniswap.dapp",
+            "io.opensea.dapp"
+          ],
+          "description": "A curated list of dapps that we think you will love.",
+          "key": "curated-list"
         }
-    ]
+      ],
+      "key": "reeshi.dappstore"
+    },
+    {
+      "githubId": "reeshi",
+      "featuredSections": [
+        {
+          "title": "Curated List 1",
+          "dappIds": [
+            "org.uniswap.dapp",
+            "io.opensea.dapp"
+          ],
+          "description": "A curated list of dapps that we think you will love.",
+          "key": "curated-list 1"
+        }
+      ],
+      "key": "rishikeshh.dappstore"
+    },
+    {
+      "githubId": "reeshi",
+      "featuredSections": [
+        {
+          "title": "Curated List 1",
+          "dappIds": [
+            "org.uniswap.dapp",
+            "io.opensea.dapp"
+          ],
+          "description": "A curated list of dapps that we think you will love.",
+          "key": "curated-list 1"
+        }
+      ],
+      "key": "rishikesh.dappstore"
+    }
+  ]
 }
